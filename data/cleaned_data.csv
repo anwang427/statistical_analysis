@@ -1,0 +1,501 @@
+id,stage,accuracy,completeness,innovation,difficulty,n_user_messages,n_internet_resources,time_to_complete_sec,cohort,assignment,llm_experience
+0,ideation,7,2,1,6.0,0.0,23.0,2075.0,expert,llm_internet,Used a few times
+0,acquisition,8,6,0,4.0,0.0,22.0,3175.0,expert,llm_internet,Used a few times
+0,magnification,4,3,0,6.0,0.0,17.0,2158.0,expert,llm_internet,Used a few times
+0,formulation,3,2,0,2.0,0.0,5.0,1151.0,expert,llm_internet,Used a few times
+0,release,6,2,0,5.0,0.0,23.0,1816.0,expert,llm_internet,Used a few times
+1,ideation,8,4,1,4.0,0.0,11.0,727.0,expert,internet_only,Use at least once every few weeks
+1,acquisition,1,3,0,5.0,0.0,35.0,1016.0,expert,internet_only,Use at least once every few weeks
+1,magnification,3,1,0,5.0,0.0,28.0,2348.0,expert,internet_only,Use at least once every few weeks
+1,formulation,3,2,0,5.0,0.0,25.0,1189.0,expert,internet_only,Use at least once every few weeks
+1,release,3,2,0,3.0,0.0,9.0,547.0,expert,internet_only,Use at least once every few weeks
+2,ideation,8,6,0,7.0,19.0,10.0,4474.0,expert,llm_internet,Never used
+2,acquisition,1,3,1,6.0,1.0,9.0,839.0,expert,llm_internet,Never used
+2,magnification,1,0,0,3.0,5.0,11.0,1167.0,expert,llm_internet,Never used
+2,formulation,4,3,2,5.0,1.0,17.0,1088.0,expert,llm_internet,Never used
+2,release,3,3,0,3.0,5.0,5.0,956.0,expert,llm_internet,Never used
+3,ideation,0,4,0,2.0,0.0,12.0,771.0,student,llm_internet,Use almost every day
+3,acquisition,1,1,0,6.0,6.0,12.0,1728.0,student,llm_internet,Use almost every day
+3,magnification,5,2,0,4.0,0.0,14.0,1901.0,student,llm_internet,Use almost every day
+3,formulation,4,3,0,7.0,3.0,9.0,1498.0,student,llm_internet,Use almost every day
+3,release,3,3,0,2.0,6.0,20.0,1312.0,student,llm_internet,Use almost every day
+4,ideation,8,4,3,6.0,37.0,6.0,3371.0,student,llm_internet,Use almost every day
+4,acquisition,1,4,0,4.0,12.0,6.0,3734.0,student,llm_internet,Use almost every day
+4,magnification,5,0,0,1.0,0.0,0.0,1697.0,student,llm_internet,Use almost every day
+4,formulation,3,1,0,2.0,0.0,0.0,1291.0,student,llm_internet,Use almost every day
+4,release,1,0,0,3.0,0.0,0.0,1183.0,student,llm_internet,Use almost every day
+5,ideation,10,4,2,4.0,0.0,0.0,1601.0,student,llm_internet,Use almost every day
+5,acquisition,3,5,1,10.0,0.0,3.0,3394.0,student,llm_internet,Use almost every day
+5,magnification,1,0,0,3.0,0.0,2.0,1357.0,student,llm_internet,Use almost every day
+5,formulation,6,3,0,5.0,39.0,1.0,3890.0,student,llm_internet,Use almost every day
+5,release,6,4,0,3.0,0.0,8.0,1983.0,student,llm_internet,Use almost every day
+6,ideation,2,4,4,3.0,9.0,9.0,1487.0,expert,llm_internet,Used a few times
+6,acquisition,4,5,1,8.0,10.0,31.0,3072.0,expert,llm_internet,Used a few times
+6,magnification,5,2,0,7.0,11.0,14.0,3025.0,expert,llm_internet,Used a few times
+6,formulation,4,3,0,3.0,3.0,2.0,1525.0,expert,llm_internet,Used a few times
+6,release,3,1,0,4.0,5.0,13.0,1493.0,expert,llm_internet,Used a few times
+7,ideation,0,3,0,3.0,0.0,6.0,470.0,student,internet_only,Use almost every day
+7,acquisition,2,2,0,2.0,0.0,12.0,1786.0,student,internet_only,Use almost every day
+7,magnification,1,0,0,1.0,0.0,0.0,290.0,student,internet_only,Use almost every day
+7,formulation,3,2,0,3.0,0.0,12.0,859.0,student,internet_only,Use almost every day
+7,release,1,1,1,2.0,0.0,3.0,894.0,student,internet_only,Use almost every day
+8,ideation,0,6,3,2.0,19.0,2.0,1764.0,student,llm_internet,Use almost every day
+8,acquisition,4,2,0,4.0,0.0,1.0,969.0,student,llm_internet,Use almost every day
+8,magnification,1,0,0,1.0,0.0,0.0,193.0,student,llm_internet,Use almost every day
+8,formulation,1,1,2,2.0,0.0,0.0,785.0,student,llm_internet,Use almost every day
+8,release,3,1,0,2.0,0.0,5.0,1072.0,student,llm_internet,Use almost every day
+9,ideation,10,3,1,5.0,0.0,10.0,1637.0,student,internet_only,Used a few times
+9,acquisition,9,4,1,10.0,0.0,12.0,3920.0,student,internet_only,Used a few times
+9,magnification,3,3,1,4.0,0.0,21.0,1912.0,student,internet_only,Used a few times
+9,formulation,3,0,0,3.0,0.0,15.0,1496.0,student,internet_only,Used a few times
+9,release,3,4,0,6.0,0.0,20.0,3674.0,student,internet_only,Used a few times
+10,ideation,8,4,1,4.0,14.0,8.0,2760.0,expert,llm_internet,Never used
+10,acquisition,6,7,0,8.0,12.0,10.0,3246.0,expert,llm_internet,Never used
+10,magnification,4,2,0,7.0,8.0,10.0,1935.0,expert,llm_internet,Never used
+10,formulation,4,3,2,3.0,5.0,6.0,1670.0,expert,llm_internet,Never used
+10,release,3,1,0,3.0,12.0,11.0,1770.0,expert,llm_internet,Never used
+11,ideation,9,3,2,9.0,0.0,13.0,1968.0,student,internet_only,Use almost every day
+11,acquisition,1,4,1,8.0,0.0,23.0,1873.0,student,internet_only,Use almost every day
+11,magnification,3,5,0,4.0,0.0,26.0,4176.0,student,internet_only,Use almost every day
+11,formulation,6,2,2,3.0,0.0,31.0,4316.0,student,internet_only,Use almost every day
+11,release,3,2,0,5.0,0.0,23.0,1040.0,student,internet_only,Use almost every day
+12,ideation,2,3,1,4.0,0.0,16.0,2632.0,student,internet_only,Used a few times
+12,acquisition,6,3,0,10.0,0.0,19.0,4004.0,student,internet_only,Used a few times
+12,magnification,1,2,0,7.0,0.0,19.0,3677.0,student,internet_only,Used a few times
+12,formulation,3,1,0,9.0,0.0,8.0,1756.0,student,internet_only,Used a few times
+12,release,3,2,0,2.0,0.0,13.0,2334.0,student,internet_only,Used a few times
+13,ideation,8,8,4,4.0,0.0,11.0,2465.0,student,internet_only,Use almost every day
+13,acquisition,4,4,0,9.0,0.0,11.0,5205.0,student,internet_only,Use almost every day
+13,magnification,1,0,0,7.0,0.0,10.0,2583.0,student,internet_only,Use almost every day
+13,formulation,6,3,1,6.0,0.0,8.0,1686.0,student,internet_only,Use almost every day
+13,release,2,2,1,2.0,0.0,7.0,1428.0,student,internet_only,Use almost every day
+14,ideation,7,3,1,5.0,0.0,46.0,1609.0,student,internet_only,Use at least once every few weeks
+14,acquisition,1,3,0,8.0,0.0,51.0,4632.0,student,internet_only,Use at least once every few weeks
+14,magnification,5,4,0,3.0,0.0,30.0,2847.0,student,internet_only,Use at least once every few weeks
+14,formulation,6,2,0,5.0,0.0,23.0,1975.0,student,internet_only,Use at least once every few weeks
+14,release,2,1,0,3.0,0.0,16.0,766.0,student,internet_only,Use at least once every few weeks
+15,ideation,6,6,1,8.0,0.0,21.0,1695.0,student,internet_only,Use at least once every few weeks
+15,acquisition,1,1,0,8.0,0.0,35.0,2645.0,student,internet_only,Use at least once every few weeks
+15,magnification,4,5,2,7.0,0.0,32.0,4493.0,student,internet_only,Use at least once every few weeks
+15,formulation,4,3,2,5.0,0.0,48.0,2059.0,student,internet_only,Use at least once every few weeks
+15,release,3,1,0,2.0,0.0,14.0,1322.0,student,internet_only,Use at least once every few weeks
+16,ideation,10,9,3,10.0,0.0,0.0,4083.0,student,internet_only,Use almost every day
+16,acquisition,6,7,0,10.0,0.0,11.0,4224.0,student,internet_only,Use almost every day
+16,magnification,3,3,1,7.0,0.0,7.0,3515.0,student,internet_only,Use almost every day
+16,formulation,1,1,1,5.0,0.0,4.0,819.0,student,internet_only,Use almost every day
+16,release,6,3,0,6.0,0.0,15.0,1924.0,student,internet_only,Use almost every day
+17,ideation,9,4,2,6.0,0.0,23.0,2279.0,student,internet_only,Use almost every day
+17,acquisition,6,3,1,7.0,0.0,43.0,4237.0,student,internet_only,Use almost every day
+17,magnification,3,0,0,8.0,0.0,25.0,2698.0,student,internet_only,Use almost every day
+17,formulation,1,1,0,6.0,0.0,27.0,1448.0,student,internet_only,Use almost every day
+17,release,3,1,0,4.0,0.0,27.0,1215.0,student,internet_only,Use almost every day
+18,ideation,9,3,1,4.0,0.0,14.0,1401.0,student,internet_only,Use at least once every few weeks
+18,acquisition,7,3,1,4.0,0.0,26.0,2682.0,student,internet_only,Use at least once every few weeks
+18,magnification,6,3,2,3.0,0.0,16.0,2321.0,student,internet_only,Use at least once every few weeks
+18,formulation,3,2,2,6.0,0.0,12.0,1181.0,student,internet_only,Use at least once every few weeks
+18,release,8,2,0,4.0,0.0,14.0,3083.0,student,internet_only,Use at least once every few weeks
+19,ideation,10,3,1,7.0,13.0,4.0,4010.0,student,llm_internet,Use at least once every few weeks
+19,acquisition,1,2,0,9.0,8.0,2.0,2137.0,student,llm_internet,Use at least once every few weeks
+19,magnification,1,0,0,4.0,2.0,6.0,5090.0,student,llm_internet,Use at least once every few weeks
+19,formulation,5,3,0,6.0,10.0,1.0,1622.0,student,llm_internet,Use at least once every few weeks
+19,release,6,5,0,4.0,6.0,1.0,959.0,student,llm_internet,Use at least once every few weeks
+20,ideation,8,10,4,4.0,0.0,16.0,4601.0,expert,llm_internet,Never used
+20,acquisition,8,5,0,6.0,2.0,27.0,3555.0,expert,llm_internet,Never used
+20,magnification,4,1,2,6.0,2.0,16.0,2229.0,expert,llm_internet,Never used
+20,formulation,3,0,0,5.0,1.0,8.0,729.0,expert,llm_internet,Never used
+20,release,2,4,1,5.0,8.0,21.0,3649.0,expert,llm_internet,Never used
+21,ideation,8,3,2,3.0,0.0,24.0,2412.0,student,internet_only,Used a few times
+21,acquisition,6,1,0,10.0,0.0,54.0,7078.0,student,internet_only,Used a few times
+21,magnification,3,0,0,8.0,0.0,21.0,2711.0,student,internet_only,Used a few times
+21,formulation,4,1,0,5.0,0.0,14.0,1104.0,student,internet_only,Used a few times
+21,release,6,2,0,3.0,0.0,7.0,1132.0,student,internet_only,Used a few times
+22,ideation,0,7,0,2.0,0.0,9.0,891.0,expert,llm_internet,Use at least once every few weeks
+22,acquisition,9,8,1,3.0,0.0,4.0,2479.0,expert,llm_internet,Use at least once every few weeks
+22,magnification,5,4,0,3.0,0.0,0.0,883.0,expert,llm_internet,Use at least once every few weeks
+22,formulation,8,2,2,7.0,27.0,80.0,6804.0,expert,llm_internet,Use at least once every few weeks
+22,release,8,2,0,3.0,0.0,5.0,1136.0,expert,llm_internet,Use at least once every few weeks
+23,ideation,9,4,1,8.0,16.0,10.0,4608.0,student,llm_internet,Use almost every day
+23,acquisition,2,5,0,9.0,3.0,0.0,1505.0,student,llm_internet,Use almost every day
+23,magnification,4,2,0,4.0,2.0,7.0,2590.0,student,llm_internet,Use almost every day
+23,formulation,4,4,2,6.0,7.0,7.0,1992.0,student,llm_internet,Use almost every day
+23,release,2,2,0,3.0,5.0,5.0,1935.0,student,llm_internet,Use almost every day
+24,ideation,0,3,0,8.0,0.0,33.0,857.0,student,internet_only,Use almost every day
+24,acquisition,1,3,0,3.0,0.0,29.0,3416.0,student,internet_only,Use almost every day
+24,magnification,1,1,0,4.0,0.0,67.0,3429.0,student,internet_only,Use almost every day
+24,formulation,6,2,0,9.0,0.0,81.0,2313.0,student,internet_only,Use almost every day
+24,release,2,1,0,2.0,0.0,14.0,1097.0,student,internet_only,Use almost every day
+25,ideation,8,4,2,3.0,0.0,34.0,1989.0,expert,internet_only,Never used
+25,acquisition,2,5,0,8.0,0.0,70.0,6726.0,expert,internet_only,Never used
+25,magnification,5,1,0,2.0,0.0,19.0,1750.0,expert,internet_only,Never used
+25,formulation,4,1,2,3.0,0.0,21.0,1329.0,expert,internet_only,Never used
+25,release,2,2,1,1.0,0.0,16.0,1695.0,expert,internet_only,Never used
+26,ideation,2,5,4,3.0,9.0,6.0,2440.0,student,llm_internet,Use at least once every few weeks
+26,acquisition,1,7,0,4.0,14.0,2.0,3951.0,student,llm_internet,Use at least once every few weeks
+26,magnification,7,3,0,3.0,7.0,2.0,1686.0,student,llm_internet,Use at least once every few weeks
+26,formulation,7,7,2,5.0,8.0,3.0,2045.0,student,llm_internet,Use at least once every few weeks
+26,release,3,4,1,1.0,15.0,0.0,3529.0,student,llm_internet,Use at least once every few weeks
+27,ideation,8,4,1,3.0,0.0,25.0,1326.0,student,llm_internet,Use at least once every few weeks
+27,acquisition,1,1,0,7.0,0.0,19.0,2568.0,student,llm_internet,Use at least once every few weeks
+27,magnification,1,0,0,9.0,0.0,64.0,6250.0,student,llm_internet,Use at least once every few weeks
+27,formulation,1,1,0,10.0,0.0,38.0,2830.0,student,llm_internet,Use at least once every few weeks
+27,release,1,2,0,5.0,0.0,20.0,1061.0,student,llm_internet,Use at least once every few weeks
+28,ideation,8,5,2,2.0,0.0,6.0,1153.0,expert,llm_internet,Never used
+28,acquisition,4,6,0,8.0,5.0,5.0,3566.0,expert,llm_internet,Never used
+28,magnification,3,2,1,2.0,0.0,5.0,1675.0,expert,llm_internet,Never used
+28,formulation,6,2,0,2.0,0.0,4.0,1664.0,expert,llm_internet,Never used
+28,release,2,2,0,1.0,0.0,0.0,392.0,expert,llm_internet,Never used
+29,ideation,8,5,2,1.0,0.0,15.0,1523.0,expert,internet_only,Used a few times
+29,acquisition,6,7,0,7.0,0.0,26.0,4891.0,expert,internet_only,Used a few times
+29,magnification,4,2,0,1.0,0.0,2.0,2422.0,expert,internet_only,Used a few times
+29,formulation,4,1,2,4.0,0.0,15.0,1261.0,expert,internet_only,Used a few times
+29,release,3,2,0,5.0,0.0,31.0,2165.0,expert,internet_only,Used a few times
+30,ideation,9,3,1,9.0,19.0,4.0,5032.0,student,llm_internet,Use almost every day
+30,acquisition,1,3,0,3.0,9.0,1.0,1599.0,student,llm_internet,Use almost every day
+30,magnification,3,1,0,2.0,2.0,1.0,1628.0,student,llm_internet,Use almost every day
+30,formulation,1,0,2,7.0,,,,student,llm_internet,Use almost every day
+30,release,2,3,2,6.0,11.0,1.0,1541.0,student,llm_internet,Use almost every day
+31,ideation,10,4,0,8.0,11.0,25.0,3516.0,expert,llm_internet,Never used
+31,acquisition,2,3,1,6.0,9.0,14.0,3824.0,expert,llm_internet,Never used
+31,magnification,3,6,2,1.0,7.0,7.0,2128.0,expert,llm_internet,Never used
+31,formulation,4,4,10,5.0,6.0,8.0,1596.0,expert,llm_internet,Never used
+31,release,2,2,2,3.0,6.0,4.0,2490.0,expert,llm_internet,Never used
+32,ideation,9,3,1,7.0,5.0,0.0,1633.0,student,llm_internet,Use almost every day
+32,acquisition,3,3,0,8.0,17.0,18.0,3065.0,student,llm_internet,Use almost every day
+32,magnification,1,0,0,2.0,4.0,0.0,318.0,student,llm_internet,Use almost every day
+32,formulation,4,4,4,3.0,9.0,5.0,1512.0,student,llm_internet,Use almost every day
+32,release,8,1,0,4.0,8.0,4.0,836.0,student,llm_internet,Use almost every day
+33,ideation,7,4,3,3.0,0.0,3.0,1270.0,expert,internet_only,Used a few times
+33,acquisition,5,5,0,8.0,0.0,14.0,1055.0,expert,internet_only,Used a few times
+33,magnification,4,2,0,4.0,0.0,11.0,1721.0,expert,internet_only,Used a few times
+33,formulation,4,2,2,5.0,0.0,6.0,1157.0,expert,internet_only,Used a few times
+33,release,4,1,0,2.0,0.0,1.0,1620.0,expert,internet_only,Used a few times
+34,ideation,8,7,5,2.0,15.0,12.0,2442.0,student,llm_internet,Use almost every day
+34,acquisition,1,5,0,6.0,12.0,6.0,1468.0,student,llm_internet,Use almost every day
+34,magnification,4,2,0,2.0,7.0,5.0,812.0,student,llm_internet,Use almost every day
+34,formulation,6,1,0,4.0,13.0,4.0,1723.0,student,llm_internet,Use almost every day
+34,release,1,0,0,2.0,3.0,5.0,2126.0,student,llm_internet,Use almost every day
+35,ideation,8,4,1,6.0,0.0,43.0,1819.0,expert,internet_only,Used a few times
+35,acquisition,1,2,0,4.0,0.0,19.0,1757.0,expert,internet_only,Used a few times
+35,magnification,3,2,0,2.0,0.0,15.0,2101.0,expert,internet_only,Used a few times
+35,formulation,6,2,2,3.0,0.0,24.0,2355.0,expert,internet_only,Used a few times
+35,release,6,1,0,3.0,0.0,16.0,1472.0,expert,internet_only,Used a few times
+36,ideation,8,7,0,,5.0,0.0,991.0,expert,llm_internet,Used a few times
+36,acquisition,6,6,2,,16.0,2.0,2879.0,expert,llm_internet,Used a few times
+36,magnification,5,5,2,,6.0,1.0,2200.0,expert,llm_internet,Used a few times
+36,formulation,6,3,2,,10.0,0.0,1402.0,expert,llm_internet,Used a few times
+36,release,8,3,0,,5.0,3.0,1062.0,expert,llm_internet,Used a few times
+37,ideation,9,6,1,2.0,18.0,2.0,1580.0,expert,llm_internet,Use at least once every few weeks
+37,acquisition,5,9,1,7.0,14.0,2.0,1639.0,expert,llm_internet,Use at least once every few weeks
+37,magnification,5,4,0,4.0,44.0,11.0,6276.0,expert,llm_internet,Use at least once every few weeks
+37,formulation,4,3,0,1.0,6.0,11.0,639.0,expert,llm_internet,Use at least once every few weeks
+37,release,6,2,1,3.0,8.0,4.0,799.0,expert,llm_internet,Use at least once every few weeks
+38,ideation,0,4,0,4.0,0.0,30.0,3486.0,expert,internet_only,Used a few times
+38,acquisition,2,8,0,10.0,0.0,30.0,4583.0,expert,internet_only,Used a few times
+38,magnification,4,5,0,6.0,0.0,20.0,2500.0,expert,internet_only,Used a few times
+38,formulation,4,3,0,3.0,0.0,24.0,2544.0,expert,internet_only,Used a few times
+38,release,2,3,1,2.0,0.0,24.0,1696.0,expert,internet_only,Used a few times
+39,ideation,8,7,1,2.0,0.0,23.0,2846.0,expert,internet_only,Used a few times
+39,acquisition,8,7,0,10.0,0.0,21.0,2840.0,expert,internet_only,Used a few times
+39,magnification,4,0,0,1.0,0.0,23.0,2291.0,expert,internet_only,Used a few times
+39,formulation,6,2,2,1.0,0.0,12.0,917.0,expert,internet_only,Used a few times
+39,release,8,2,0,1.0,0.0,6.0,999.0,expert,internet_only,Used a few times
+40,ideation,2,4,2,3.0,17.0,31.0,2920.0,student,llm_internet,Used a few times
+40,acquisition,1,2,0,5.0,9.0,15.0,3075.0,student,llm_internet,Used a few times
+40,magnification,1,0,4,7.0,5.0,4.0,1230.0,student,llm_internet,Used a few times
+40,formulation,0,4,0,9.0,12.0,3.0,1186.0,student,llm_internet,Used a few times
+40,release,3,4,1,4.0,7.0,12.0,1106.0,student,llm_internet,Used a few times
+41,ideation,10,6,1,3.0,32.0,9.0,2309.0,student,llm_internet,Use at least once every few weeks
+41,acquisition,6,7,2,8.0,30.0,0.0,2937.0,student,llm_internet,Use at least once every few weeks
+41,magnification,3,1,0,1.0,1.0,0.0,229.0,student,llm_internet,Use at least once every few weeks
+41,formulation,5,2,0,2.0,14.0,5.0,2174.0,student,llm_internet,Use at least once every few weeks
+41,release,2,3,0,1.0,10.0,3.0,1390.0,student,llm_internet,Use at least once every few weeks
+42,ideation,10,3,1,4.0,5.0,0.0,3081.0,expert,llm_internet,Use at least once every few weeks
+42,acquisition,8,4,1,8.0,3.0,0.0,1054.0,expert,llm_internet,Use at least once every few weeks
+42,magnification,4,2,0,7.0,7.0,0.0,1216.0,expert,llm_internet,Use at least once every few weeks
+42,formulation,5,3,2,5.0,4.0,0.0,1328.0,expert,llm_internet,Use at least once every few weeks
+42,release,3,1,0,2.0,4.0,0.0,1107.0,expert,llm_internet,Use at least once every few weeks
+43,ideation,7,2,1,3.0,15.0,0.0,1544.0,student,llm_internet,Use at least once every few weeks
+43,acquisition,2,5,0,9.0,26.0,9.0,2921.0,student,llm_internet,Use at least once every few weeks
+43,magnification,5,5,0,3.0,16.0,2.0,3909.0,student,llm_internet,Use at least once every few weeks
+43,formulation,4,1,2,1.0,4.0,0.0,1421.0,student,llm_internet,Use at least once every few weeks
+43,release,6,1,1,2.0,11.0,0.0,1631.0,student,llm_internet,Use at least once every few weeks
+44,ideation,9,5,4,5.0,3.0,4.0,2560.0,student,llm_internet,Use almost every day
+44,acquisition,6,3,0,7.0,6.0,5.0,2759.0,student,llm_internet,Use almost every day
+44,magnification,1,1,1,2.0,5.0,5.0,1159.0,student,llm_internet,Use almost every day
+44,formulation,6,3,0,5.0,5.0,4.0,1737.0,student,llm_internet,Use almost every day
+44,release,2,2,0,3.0,10.0,4.0,1456.0,student,llm_internet,Use almost every day
+45,ideation,9,7,6,8.0,11.0,0.0,2286.0,student,llm_internet,Used a few times
+45,acquisition,1,3,1,8.0,27.0,1.0,5449.0,student,llm_internet,Used a few times
+45,magnification,5,3,0,2.0,6.0,0.0,1540.0,student,llm_internet,Used a few times
+45,formulation,4,1,0,6.0,23.0,0.0,2822.0,student,llm_internet,Used a few times
+45,release,3,3,1,4.0,10.0,0.0,1173.0,student,llm_internet,Used a few times
+46,ideation,10,4,1,3.0,0.0,8.0,2337.0,student,internet_only,Use almost every day
+46,acquisition,1,2,0,7.0,0.0,13.0,2828.0,student,internet_only,Use almost every day
+46,magnification,1,0,0,5.0,0.0,5.0,737.0,student,internet_only,Use almost every day
+46,formulation,0,0,2,5.0,0.0,5.0,800.0,student,internet_only,Use almost every day
+46,release,3,1,0,2.0,0.0,2.0,468.0,student,internet_only,Use almost every day
+47,ideation,10,4,2,8.0,0.0,14.0,1431.0,expert,internet_only,Never used
+47,acquisition,1,2,0,4.0,0.0,18.0,1377.0,expert,internet_only,Never used
+47,magnification,1,1,0,8.0,0.0,11.0,1210.0,expert,internet_only,Never used
+47,formulation,1,4,2,4.0,0.0,18.0,1170.0,expert,internet_only,Never used
+47,release,3,3,1,5.0,0.0,21.0,2380.0,expert,internet_only,Never used
+48,ideation,8,5,3,4.0,0.0,6.0,1473.0,student,internet_only,Use at least once every few weeks
+48,acquisition,1,3,0,9.0,0.0,2.0,2089.0,student,internet_only,Use at least once every few weeks
+48,magnification,5,0,0,7.0,0.0,1.0,1411.0,student,internet_only,Use at least once every few weeks
+48,formulation,3,0,0,8.0,0.0,2.0,3045.0,student,internet_only,Use at least once every few weeks
+48,release,2,1,0,4.0,0.0,2.0,847.0,student,internet_only,Use at least once every few weeks
+49,ideation,8,6,4,4.0,7.0,23.0,2502.0,student,llm_internet,Used a few times
+49,acquisition,1,4,0,9.0,15.0,29.0,4042.0,student,llm_internet,Used a few times
+49,magnification,4,2,0,9.0,10.0,20.0,3646.0,student,llm_internet,Used a few times
+49,formulation,6,4,0,1.0,4.0,8.0,1436.0,student,llm_internet,Used a few times
+49,release,8,2,0,3.0,6.0,11.0,1170.0,student,llm_internet,Used a few times
+50,ideation,0,4,0,3.0,0.0,9.0,1423.0,student,internet_only,Use almost every day
+50,acquisition,1,3,0,10.0,0.0,14.0,2075.0,student,internet_only,Use almost every day
+50,magnification,1,0,0,8.0,0.0,21.0,3335.0,student,internet_only,Use almost every day
+50,formulation,6,4,6,2.0,0.0,11.0,1971.0,student,internet_only,Use almost every day
+50,release,4,3,0,4.0,0.0,13.0,2475.0,student,internet_only,Use almost every day
+51,ideation,5,6,2,7.0,0.0,38.0,1733.0,student,internet_only,Use almost every day
+51,acquisition,1,4,1,4.0,0.0,32.0,2028.0,student,internet_only,Use almost every day
+51,magnification,3,2,2,7.0,0.0,36.0,3900.0,student,internet_only,Use almost every day
+51,formulation,1,1,0,4.0,0.0,36.0,1461.0,student,internet_only,Use almost every day
+51,release,3,4,0,3.0,0.0,33.0,1739.0,student,internet_only,Use almost every day
+52,ideation,8,5,1,2.0,0.0,11.0,2202.0,student,internet_only,Use almost every day
+52,acquisition,1,2,0,7.0,0.0,12.0,1981.0,student,internet_only,Use almost every day
+52,magnification,1,0,0,6.0,0.0,11.0,3248.0,student,internet_only,Use almost every day
+52,formulation,4,1,0,4.0,0.0,7.0,1165.0,student,internet_only,Use almost every day
+52,release,2,2,1,4.0,0.0,31.0,6135.0,student,internet_only,Use almost every day
+53,ideation,7,5,1,8.0,0.0,6.0,1912.0,student,internet_only,Use almost every day
+53,acquisition,3,5,0,3.0,0.0,39.0,2408.0,student,internet_only,Use almost every day
+53,magnification,3,1,2,2.0,0.0,7.0,607.0,student,internet_only,Use almost every day
+53,formulation,5,3,0,3.0,0.0,9.0,612.0,student,internet_only,Use almost every day
+53,release,3,2,0,1.0,0.0,31.0,887.0,student,internet_only,Use almost every day
+54,ideation,10,8,2,5.0,0.0,15.0,3490.0,expert,llm_internet,Never used
+54,acquisition,8,5,0,10.0,0.0,22.0,3605.0,expert,llm_internet,Never used
+54,magnification,8,4,0,4.0,0.0,16.0,1842.0,expert,llm_internet,Never used
+54,formulation,5,4,0,2.0,0.0,10.0,1452.0,expert,llm_internet,Never used
+54,release,3,4,0,3.0,0.0,11.0,1282.0,expert,llm_internet,Never used
+55,ideation,2,6,2,4.0,13.0,1.0,1745.0,expert,llm_internet,Used a few times
+55,acquisition,6,7,4,3.0,6.0,69.0,3489.0,expert,llm_internet,Used a few times
+55,magnification,4,4,0,1.0,7.0,28.0,1483.0,expert,llm_internet,Used a few times
+55,formulation,7,5,4,2.0,4.0,1.0,1050.0,expert,llm_internet,Used a few times
+55,release,8,1,1,5.0,10.0,59.0,2262.0,expert,llm_internet,Used a few times
+56,ideation,4,7,1,6.0,0.0,24.0,2553.0,expert,internet_only,Used a few times
+56,acquisition,7,7,0,7.0,0.0,34.0,2521.0,expert,internet_only,Used a few times
+56,magnification,3,3,0,2.0,0.0,15.0,1457.0,expert,internet_only,Used a few times
+56,formulation,3,2,0,5.0,0.0,18.0,2817.0,expert,internet_only,Used a few times
+56,release,4,2,0,2.0,0.0,7.0,560.0,expert,internet_only,Used a few times
+57,ideation,6,3,0,6.0,0.0,22.0,2361.0,student,internet_only,Use at least once every few weeks
+57,acquisition,6,4,0,8.0,0.0,14.0,7033.0,student,internet_only,Use at least once every few weeks
+57,magnification,2,0,1,6.0,0.0,11.0,580.0,student,internet_only,Use at least once every few weeks
+57,formulation,0,1,0,10.0,0.0,15.0,1428.0,student,internet_only,Use at least once every few weeks
+57,release,4,1,0,3.0,0.0,15.0,1408.0,student,internet_only,Use at least once every few weeks
+58,ideation,8,5,1,1.0,9.0,7.0,1854.0,expert,llm_internet,Never used
+58,acquisition,1,5,0,3.0,28.0,3.0,5806.0,expert,llm_internet,Never used
+58,magnification,8,8,0,3.0,14.0,3.0,1540.0,expert,llm_internet,Never used
+58,formulation,4,2,0,1.0,3.0,1.0,1001.0,expert,llm_internet,Never used
+58,release,8,3,2,1.0,6.0,0.0,1379.0,expert,llm_internet,Never used
+59,ideation,2,2,1,1.0,0.0,6.0,2558.0,expert,internet_only,Used a few times
+59,acquisition,1,0,4,6.0,0.0,6.0,4204.0,expert,internet_only,Used a few times
+59,magnification,3,1,2,2.0,0.0,11.0,2797.0,expert,internet_only,Used a few times
+59,formulation,4,2,4,1.0,0.0,8.0,1014.0,expert,internet_only,Used a few times
+59,release,2,1,1,1.0,0.0,1.0,740.0,expert,internet_only,Used a few times
+60,ideation,7,4,2,5.0,17.0,7.0,3358.0,student,llm_internet,Use almost every day
+60,acquisition,1,6,0,7.0,11.0,2.0,1814.0,student,llm_internet,Use almost every day
+60,magnification,8,3,0,6.0,8.0,4.0,1842.0,student,llm_internet,Use almost every day
+60,formulation,5,3,0,2.0,5.0,0.0,1011.0,student,llm_internet,Use almost every day
+60,release,4,2,0,2.0,4.0,2.0,748.0,student,llm_internet,Use almost every day
+61,ideation,8,4,2,2.0,0.0,6.0,820.0,student,internet_only,Use almost every day
+61,acquisition,1,3,0,8.0,0.0,18.0,6900.0,student,internet_only,Use almost every day
+61,magnification,5,2,0,6.0,0.0,13.0,3885.0,student,internet_only,Use almost every day
+61,formulation,0,2,0,10.0,0.0,12.0,3720.0,student,internet_only,Use almost every day
+61,release,2,0,0,3.0,0.0,2.0,171.0,student,internet_only,Use almost every day
+62,ideation,8,5,3,1.0,8.0,8.0,1738.0,expert,llm_internet,Used a few times
+62,acquisition,0,5,0,10.0,9.0,6.0,3481.0,expert,llm_internet,Used a few times
+62,magnification,3,4,0,8.0,4.0,16.0,2973.0,expert,llm_internet,Used a few times
+62,formulation,6,5,2,5.0,6.0,13.0,2784.0,expert,llm_internet,Used a few times
+62,release,3,2,0,2.0,13.0,19.0,3966.0,expert,llm_internet,Used a few times
+63,ideation,8,6,2,8.0,0.0,24.0,4030.0,expert,internet_only,Used a few times
+63,acquisition,2,1,0,10.0,0.0,19.0,1787.0,expert,internet_only,Used a few times
+63,magnification,4,2,0,6.0,0.0,11.0,1125.0,expert,internet_only,Used a few times
+63,formulation,5,4,0,7.0,0.0,22.0,1857.0,expert,internet_only,Used a few times
+63,release,3,1,0,5.0,0.0,10.0,522.0,expert,internet_only,Used a few times
+64,ideation,8,2,1,3.0,0.0,18.0,1195.0,expert,internet_only,Never used
+64,acquisition,6,6,2,4.0,0.0,23.0,2862.0,expert,internet_only,Never used
+64,magnification,4,3,0,1.0,0.0,14.0,778.0,expert,internet_only,Never used
+64,formulation,8,3,1,5.0,0.0,15.0,2646.0,expert,internet_only,Never used
+64,release,3,2,1,3.0,0.0,9.0,1385.0,expert,internet_only,Never used
+65,ideation,9,8,2,6.0,6.0,0.0,948.0,expert,llm_internet,Use at least once every few weeks
+65,acquisition,3,8,0,4.0,6.0,2.0,924.0,expert,llm_internet,Use at least once every few weeks
+65,magnification,7,4,0,2.0,4.0,0.0,1782.0,expert,llm_internet,Use at least once every few weeks
+65,formulation,3,4,0,7.0,4.0,0.0,1117.0,expert,llm_internet,Use at least once every few weeks
+65,release,3,1,0,1.0,5.0,0.0,727.0,expert,llm_internet,Use at least once every few weeks
+66,ideation,8,4,1,5.0,4.0,43.0,1449.0,student,llm_internet,Never used
+66,acquisition,1,4,0,6.0,6.0,28.0,3765.0,student,llm_internet,Never used
+66,magnification,4,2,0,3.0,10.0,8.0,3944.0,student,llm_internet,Never used
+66,formulation,4,1,0,8.0,6.0,12.0,1763.0,student,llm_internet,Never used
+66,release,4,0,1,4.0,0.0,6.0,1369.0,student,llm_internet,Never used
+67,ideation,8,6,2,9.0,0.0,0.0,3198.0,expert,llm_internet,Never used
+67,acquisition,6,5,1,5.0,0.0,2.0,1618.0,expert,llm_internet,Never used
+67,magnification,3,0,0,5.0,13.0,7.0,5054.0,expert,llm_internet,Never used
+67,formulation,3,3,2,3.0,,,,expert,llm_internet,Never used
+67,release,3,2,1,3.0,0.0,4.0,1482.0,expert,llm_internet,Never used
+68,ideation,2,7,1,4.0,0.0,33.0,3003.0,student,internet_only,Used a few times
+68,acquisition,1,4,0,6.0,0.0,57.0,4335.0,student,internet_only,Used a few times
+68,magnification,1,0,0,1.0,0.0,13.0,1776.0,student,internet_only,Used a few times
+68,formulation,4,2,0,2.0,0.0,11.0,1490.0,student,internet_only,Used a few times
+68,release,3,2,0,1.0,0.0,8.0,710.0,student,internet_only,Used a few times
+69,ideation,8,6,2,5.0,0.0,11.0,1423.0,student,internet_only,Used a few times
+69,acquisition,5,6,1,3.0,0.0,40.0,5826.0,student,internet_only,Used a few times
+69,magnification,2,4,2,3.0,0.0,20.0,2720.0,student,internet_only,Used a few times
+69,formulation,4,4,2,3.0,0.0,9.0,1249.0,student,internet_only,Used a few times
+69,release,3,3,0,2.0,0.0,5.0,583.0,student,internet_only,Used a few times
+70,ideation,9,5,2,10.0,0.0,5.0,1277.0,student,internet_only,Used a few times
+70,acquisition,2,10,0,5.0,0.0,5.0,1579.0,student,internet_only,Used a few times
+70,magnification,1,0,0,4.0,0.0,8.0,2190.0,student,internet_only,Used a few times
+70,formulation,1,3,0,7.0,0.0,4.0,1893.0,student,internet_only,Used a few times
+70,release,2,1,0,2.0,0.0,12.0,3737.0,student,internet_only,Used a few times
+71,ideation,8,5,0,4.0,0.0,23.0,2078.0,expert,internet_only,Used a few times
+71,acquisition,6,2,0,7.0,0.0,26.0,3699.0,expert,internet_only,Used a few times
+71,magnification,5,5,0,3.0,0.0,8.0,7497.0,expert,internet_only,Used a few times
+71,formulation,1,1,0,3.0,0.0,7.0,919.0,expert,internet_only,Used a few times
+71,release,3,1,0,1.0,0.0,5.0,359.0,expert,internet_only,Used a few times
+72,ideation,10,3,0,5.0,0.0,3.0,867.0,student,internet_only,Use at least once every few weeks
+72,acquisition,2,2,0,9.0,0.0,2.0,1446.0,student,internet_only,Use at least once every few weeks
+72,magnification,3,1,0,4.0,0.0,2.0,403.0,student,internet_only,Use at least once every few weeks
+72,formulation,3,2,0,8.0,0.0,3.0,2030.0,student,internet_only,Use at least once every few weeks
+72,release,3,1,0,3.0,0.0,1.0,214.0,student,internet_only,Use at least once every few weeks
+73,ideation,7,4,2,10.0,32.0,25.0,4074.0,expert,llm_internet,Use at least once every few weeks
+73,acquisition,6,6,0,9.0,6.0,19.0,1715.0,expert,llm_internet,Use at least once every few weeks
+73,magnification,5,2,0,8.0,4.0,16.0,1136.0,expert,llm_internet,Use at least once every few weeks
+73,formulation,8,2,0,5.0,7.0,30.0,1036.0,expert,llm_internet,Use at least once every few weeks
+73,release,8,2,0,5.0,0.0,33.0,2720.0,expert,llm_internet,Use at least once every few weeks
+74,ideation,7,3,0,6.0,0.0,29.0,2075.0,expert,internet_only,Never used
+74,acquisition,2,3,0,3.0,,,,expert,internet_only,Never used
+74,magnification,3,2,0,6.0,0.0,23.0,1481.0,expert,internet_only,Never used
+74,formulation,4,2,0,8.0,0.0,18.0,1192.0,expert,internet_only,Never used
+74,release,2,4,1,1.0,0.0,43.0,3415.0,expert,internet_only,Never used
+75,ideation,10,3,0,6.0,4.0,8.0,1361.0,student,llm_internet,Used a few times
+75,acquisition,1,5,0,9.0,5.0,11.0,3792.0,student,llm_internet,Used a few times
+75,magnification,3,1,0,9.0,2.0,3.0,2444.0,student,llm_internet,Used a few times
+75,formulation,1,0,0,7.0,4.0,10.0,2907.0,student,llm_internet,Used a few times
+75,release,3,1,0,3.0,4.0,4.0,764.0,student,llm_internet,Used a few times
+76,ideation,10,6,0,3.0,11.0,8.0,2198.0,expert,llm_internet,Never used
+76,acquisition,8,10,2,10.0,12.0,23.0,3581.0,expert,llm_internet,Never used
+76,magnification,9,10,4,7.0,9.0,16.0,2098.0,expert,llm_internet,Never used
+76,formulation,7,7,0,5.0,6.0,11.0,1592.0,expert,llm_internet,Never used
+76,release,2,4,0,4.0,12.0,24.0,3000.0,expert,llm_internet,Never used
+77,ideation,0,4,0,2.0,0.0,19.0,2136.0,expert,internet_only,Never used
+77,acquisition,1,8,1,7.0,0.0,16.0,2579.0,expert,internet_only,Never used
+77,magnification,5,4,0,3.0,0.0,19.0,4381.0,expert,internet_only,Never used
+77,formulation,5,2,2,4.0,0.0,19.0,2927.0,expert,internet_only,Never used
+77,release,3,1,0,2.0,0.0,16.0,1133.0,expert,internet_only,Never used
+78,ideation,8,5,2,4.0,8.0,23.0,3245.0,student,llm_internet,Use almost every day
+78,acquisition,2,1,0,8.0,20.0,23.0,3342.0,student,llm_internet,Use almost every day
+78,magnification,8,4,0,2.0,10.0,5.0,4043.0,student,llm_internet,Use almost every day
+78,formulation,6,2,2,1.0,7.0,3.0,987.0,student,llm_internet,Use almost every day
+78,release,2,1,0,1.0,1.0,1.0,873.0,student,llm_internet,Use almost every day
+79,ideation,10,1,0,1.0,0.0,2.0,631.0,student,internet_only,Use almost every day
+79,acquisition,6,5,0,8.0,0.0,3.0,2664.0,student,internet_only,Use almost every day
+79,magnification,1,0,0,5.0,0.0,6.0,1345.0,student,internet_only,Use almost every day
+79,formulation,1,0,0,10.0,0.0,18.0,2694.0,student,internet_only,Use almost every day
+79,release,2,1,0,4.0,0.0,4.0,876.0,student,internet_only,Use almost every day
+80,ideation,10,3,2,1.0,0.0,19.0,1901.0,expert,internet_only,Used a few times
+80,acquisition,1,2,0,9.0,0.0,36.0,3607.0,expert,internet_only,Used a few times
+80,magnification,3,1,0,9.0,0.0,33.0,2793.0,expert,internet_only,Used a few times
+80,formulation,3,1,2,5.0,0.0,18.0,2161.0,expert,internet_only,Used a few times
+80,release,2,1,0,1.0,0.0,14.0,1024.0,expert,internet_only,Used a few times
+81,ideation,7,3,1,4.0,14.0,8.0,1237.0,expert,llm_internet,Use at least once every few weeks
+81,acquisition,1,0,0,3.0,7.0,7.0,1590.0,expert,llm_internet,Use at least once every few weeks
+81,magnification,3,3,0,2.0,15.0,12.0,2221.0,expert,llm_internet,Use at least once every few weeks
+81,formulation,4,0,2,2.0,11.0,7.0,1899.0,expert,llm_internet,Use at least once every few weeks
+81,release,3,4,1,2.0,11.0,21.0,2186.0,expert,llm_internet,Use at least once every few weeks
+82,ideation,8,4,1,9.0,0.0,5.0,1511.0,student,llm_internet,Use at least once every few weeks
+82,acquisition,4,5,0,9.0,0.0,8.0,2239.0,student,llm_internet,Use at least once every few weeks
+82,magnification,5,0,0,2.0,0.0,4.0,1422.0,student,llm_internet,Use at least once every few weeks
+82,formulation,6,6,0,4.0,0.0,0.0,2880.0,student,llm_internet,Use at least once every few weeks
+82,release,3,3,0,2.0,0.0,2.0,887.0,student,llm_internet,Use at least once every few weeks
+83,ideation,9,6,2,4.0,7.0,18.0,3641.0,expert,llm_internet,Never used
+83,acquisition,1,2,0,9.0,8.0,22.0,3553.0,expert,llm_internet,Never used
+83,magnification,5,3,0,3.0,9.0,3.0,2941.0,expert,llm_internet,Never used
+83,formulation,6,4,0,3.0,4.0,8.0,2184.0,expert,llm_internet,Never used
+83,release,3,3,0,2.0,3.0,0.0,1466.0,expert,llm_internet,Never used
+84,ideation,7,1,3,5.0,0.0,0.0,186.0,expert,internet_only,Never used
+84,acquisition,2,2,1,10.0,0.0,3.0,730.0,expert,internet_only,Never used
+84,magnification,2,1,1,9.0,0.0,0.0,44.0,expert,internet_only,Never used
+84,formulation,1,1,0,10.0,0.0,4.0,5926.0,expert,internet_only,Never used
+84,release,4,1,0,1.0,0.0,0.0,69.0,expert,internet_only,Never used
+85,ideation,0,3,1,5.0,0.0,19.0,1973.0,expert,internet_only,Never used
+85,acquisition,3,8,1,4.0,0.0,31.0,2664.0,expert,internet_only,Never used
+85,magnification,3,2,0,2.0,0.0,14.0,1511.0,expert,internet_only,Never used
+85,formulation,5,2,2,1.0,0.0,9.0,753.0,expert,internet_only,Never used
+85,release,2,5,1,3.0,0.0,33.0,3130.0,expert,internet_only,Never used
+86,ideation,10,2,2,1.0,6.0,0.0,906.0,expert,llm_internet,Used a few times
+86,acquisition,6,6,0,1.0,3.0,0.0,767.0,expert,llm_internet,Used a few times
+86,magnification,5,5,2,2.0,7.0,0.0,1223.0,expert,llm_internet,Used a few times
+86,formulation,9,3,2,4.0,5.0,0.0,793.0,expert,llm_internet,Used a few times
+86,release,2,1,1,1.0,3.0,0.0,2088.0,expert,llm_internet,Used a few times
+87,ideation,8,5,1,1.0,0.0,4.0,1408.0,expert,internet_only,Never used
+87,acquisition,9,8,0,4.0,0.0,34.0,3344.0,expert,internet_only,Never used
+87,magnification,3,2,0,2.0,0.0,4.0,1312.0,expert,internet_only,Never used
+87,formulation,4,2,2,5.0,0.0,12.0,1702.0,expert,internet_only,Never used
+87,release,3,2,0,3.0,0.0,14.0,1822.0,expert,internet_only,Never used
+88,ideation,10,7,2,3.0,0.0,18.0,1956.0,expert,internet_only,Never used
+88,acquisition,1,6,0,8.0,0.0,29.0,3650.0,expert,internet_only,Never used
+88,magnification,4,5,0,1.0,0.0,10.0,3416.0,expert,internet_only,Never used
+88,formulation,4,3,0,1.0,0.0,11.0,827.0,expert,internet_only,Never used
+88,release,3,4,0,2.0,0.0,14.0,2449.0,expert,internet_only,Never used
+89,ideation,9,5,1,8.0,1.0,13.0,4269.0,expert,llm_internet,Used a few times
+89,acquisition,2,6,1,8.0,2.0,8.0,3971.0,expert,llm_internet,Used a few times
+89,magnification,5,3,0,4.0,0.0,12.0,2086.0,expert,llm_internet,Used a few times
+89,formulation,4,5,4,3.0,1.0,10.0,2495.0,expert,llm_internet,Used a few times
+89,release,3,4,0,4.0,0.0,22.0,2224.0,expert,llm_internet,Used a few times
+90,ideation,8,8,2,8.0,0.0,30.0,4071.0,expert,internet_only,Never used
+90,acquisition,3,6,0,10.0,0.0,50.0,2811.0,expert,internet_only,Never used
+90,magnification,0,0,0,10.0,0.0,0.0,43.0,expert,internet_only,Never used
+90,formulation,5,1,0,5.0,0.0,52.0,4773.0,expert,internet_only,Never used
+90,release,4,1,0,3.0,0.0,38.0,3287.0,expert,internet_only,Never used
+91,ideation,8,3,3,2.0,5.0,3.0,1832.0,expert,llm_internet,Never used
+91,acquisition,1,7,0,3.0,4.0,18.0,2650.0,expert,llm_internet,Never used
+91,magnification,5,1,1,1.0,2.0,2.0,2240.0,expert,llm_internet,Never used
+91,formulation,4,3,2,10.0,2.0,10.0,2627.0,expert,llm_internet,Never used
+91,release,4,3,0,3.0,5.0,11.0,4389.0,expert,llm_internet,Never used
+92,ideation,10,9,5,5.0,0.0,22.0,2501.0,expert,internet_only,Never used
+92,acquisition,8,5,1,6.0,0.0,16.0,2169.0,expert,internet_only,Never used
+92,magnification,5,5,0,1.0,0.0,7.0,2927.0,expert,internet_only,Never used
+92,formulation,3,4,2,7.0,0.0,44.0,2253.0,expert,internet_only,Never used
+92,release,3,2,0,1.0,0.0,9.0,1869.0,expert,internet_only,Never used
+93,ideation,8,7,0,2.0,14.0,12.0,3981.0,student,llm_internet,Use at least once every few weeks
+93,acquisition,5,7,1,5.0,9.0,25.0,3570.0,student,llm_internet,Use at least once every few weeks
+93,magnification,5,3,0,2.0,4.0,4.0,1945.0,student,llm_internet,Use at least once every few weeks
+93,formulation,6,2,0,1.0,2.0,3.0,1130.0,student,llm_internet,Use at least once every few weeks
+93,release,3,3,0,2.0,2.0,11.0,1306.0,student,llm_internet,Use at least once every few weeks
+94,ideation,0,8,3,7.0,4.0,1.0,1725.0,expert,llm_internet,Never used
+94,acquisition,9,7,1,3.0,4.0,33.0,4809.0,expert,llm_internet,Never used
+94,magnification,3,2,0,1.0,2.0,9.0,868.0,expert,llm_internet,Never used
+94,formulation,8,4,2,3.0,0.0,13.0,1240.0,expert,llm_internet,Never used
+94,release,3,2,0,2.0,19.0,0.0,1937.0,expert,llm_internet,Never used
+95,ideation,0,4,0,6.0,0.0,14.0,977.0,expert,internet_only,Never used
+95,acquisition,0,2,0,10.0,0.0,24.0,3897.0,expert,internet_only,Never used
+95,magnification,4,3,0,9.0,0.0,19.0,3746.0,expert,internet_only,Never used
+95,formulation,4,3,0,6.0,0.0,11.0,2603.0,expert,internet_only,Never used
+95,release,3,3,0,8.0,0.0,15.0,1815.0,expert,internet_only,Never used
+96,ideation,8,4,2,5.0,0.0,29.0,1183.0,expert,internet_only,Never used
+96,acquisition,9,4,1,7.0,0.0,33.0,3372.0,expert,internet_only,Never used
+96,magnification,4,3,0,1.0,0.0,9.0,1170.0,expert,internet_only,Never used
+96,formulation,6,3,2,4.0,0.0,13.0,2934.0,expert,internet_only,Never used
+96,release,4,1,1,3.0,0.0,16.0,1538.0,expert,internet_only,Never used
+97,ideation,0,5,0,6.0,15.0,21.0,2180.0,student,llm_internet,Use at least once every few weeks
+97,acquisition,3,5,0,8.0,17.0,31.0,2699.0,student,llm_internet,Use at least once every few weeks
+97,magnification,1,2,0,2.0,8.0,14.0,1492.0,student,llm_internet,Use at least once every few weeks
+97,formulation,1,2,2,3.0,16.0,15.0,2983.0,student,llm_internet,Use at least once every few weeks
+97,release,2,4,2,5.0,25.0,15.0,2748.0,student,llm_internet,Use at least once every few weeks
+98,ideation,10,7,3,8.0,0.0,31.0,3025.0,expert,internet_only,Never used
+98,acquisition,1,4,0,6.0,0.0,38.0,2188.0,expert,internet_only,Never used
+98,magnification,5,0,0,2.0,0.0,14.0,2330.0,expert,internet_only,Never used
+98,formulation,5,2,0,7.0,0.0,14.0,1446.0,expert,internet_only,Never used
+98,release,6,2,0,1.0,0.0,28.0,1904.0,expert,internet_only,Never used
+99,ideation,8,7,2,2.0,18.0,27.0,2837.0,student,llm_internet,Use almost every day
+99,acquisition,1,6,0,6.0,5.0,7.0,2187.0,student,llm_internet,Use almost every day
+99,magnification,1,3,0,5.0,5.0,16.0,2614.0,student,llm_internet,Use almost every day
+99,formulation,4,3,0,6.0,4.0,14.0,1699.0,student,llm_internet,Use almost every day
+99,release,3,1,0,1.0,2.0,3.0,881.0,student,llm_internet,Use almost every day
